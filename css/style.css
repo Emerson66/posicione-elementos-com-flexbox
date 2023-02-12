@@ -1,5 +1,6 @@
 body {
-	background-color: #F2F5F7;
+	/* background-color: #F2F5F7; */
+	background-color: #91999e;
 	font-family: 'Open Sans',Arial,sans-serif;
 }
 
@@ -9,7 +10,8 @@ body {
 }
 
 .cabecalhoPrincipal {
-	background-color: #FFF;
+	/* background-color: #FFF; */
+	background-color: #91999e;
 	padding: 20px 0;
 }
 
